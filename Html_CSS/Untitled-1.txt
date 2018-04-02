@@ -1,0 +1,9 @@
+Tugas 1 
+
+Membuat satu halaman html dan css (pure)
+    tema
+ 1  6 11 16 21 - Rumah sakit
+ 2  7 12 17 22 - Lembaga penelitian
+ 3  8 13 18 23 - Software House
+ 4  9 14 19 24 - Perusahaan Tour and travel
+ 5 10 15 20 25 - Lembaga Hukum

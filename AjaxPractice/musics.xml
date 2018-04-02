@@ -1,0 +1,32 @@
+<musics>
+	<song>
+		<artist>Clean Bandit</artist>
+		<title>Rather Be feat. Jess Glynne</title>
+		<url>http://localhost/musics/Clean Bandit - Rather Be feat. Jess Glynne.mp3</url>
+	</song>	
+	<song>
+		<artist>Ed Sheeran</artist>
+		<title>Sing</title>
+		<url>http://localhost/musics/Ed Sheeran - Sing.mp3</url>
+	</song>	
+	<song>
+		<artist>John Legend</artist>
+		<title>All of Me</title>
+		<url>http://localhost/musics/John Legend - All of Me.mp3</url>
+	</song>	
+	<song>
+		<artist>Justin Timberlake</artist>
+		<title>Mirrors</title>
+		<url>http://localhost/musics/Justin Timberlake - Mirrors.mp3</url>
+	</song>	
+	<song>
+		<artist>Magic!</artist>
+		<title>Rude</title>
+		<url>http://localhost/musics/MAGIC! - Rude.mp3</url>
+	</song>	
+	<song>
+		<artist>Maroon 5</artist>
+		<title>Maps</title>
+		<url>http://localhost/musics/Maroon 5 - Maps (Explicit).mp3</url>
+	</song>	
+</musics>
